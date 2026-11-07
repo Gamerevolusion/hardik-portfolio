@@ -1,5 +1,7 @@
 # Hardik Agrawal — Portfolio
 
+[Live portfolio](https://hardik-portfolio-mu.vercel.app)
+
 A technical portfolio with a real-time Three.js sculpture, Figma-style cursor assembly, interactive project details, and a Web Audio equation study.
 
 ## Development
